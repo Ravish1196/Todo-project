@@ -2,7 +2,7 @@
   "name": "reactmotipri",
   "version": "1.0.0",
   "description": "This is To_Do_Project",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "start" : "parcel index.html",
     "build" : "parcel build index.html",
