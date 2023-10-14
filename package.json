@@ -2,10 +2,10 @@
   "name": "reactmotipri",
   "version": "1.0.0",
   "description": "This is To_Do_Project",
-  "main": "dist/index.html",
+ 
   "scripts": {
     "start" : "parcel index.html",
-    "build" : "parcel build index.js",
+    "build" : "parcel build index.html",
     "test": "jest"
   },
   "keywords": [
